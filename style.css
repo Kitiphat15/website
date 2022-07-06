@@ -60,3 +60,8 @@ header img {
     height: 320px;
     padding: auto;
 }
+
+.top10 {
+    background-color: #fff;
+    padding: 10px;
+}
