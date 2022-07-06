@@ -43,6 +43,12 @@ footer {
     float: left;
 }
 
+header img {
+    color: #ffe000;
+    float: left;
+}
+
+
 .graphic{
     background-image: url('img/chantaburi-cover.jpeg');
     height: 320px;
