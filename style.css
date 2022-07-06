@@ -15,7 +15,7 @@ body {
 header {
     background-color: #001fff;
     font-size: 3vh;
-    height: 100%;
+    height: 100%+150px;
 }
 
 header img {
@@ -36,7 +36,6 @@ footer {
 
 .head-name {
     color: #ffe000;
-    margin-top: 10px;
 }
 
 .head-name-1 {
