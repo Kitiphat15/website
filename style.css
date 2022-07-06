@@ -49,6 +49,6 @@ header img {
 
 .graphic{
     background-image: url('img/chantaburi-cover.jpeg');
-    height: 320px;
+    height: 100%;
     padding: auto;
 }
