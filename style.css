@@ -20,7 +20,7 @@ header {
 }
 
 header img {
-    width: 150px;
+    width: 75px;
 }
 
 footer {
@@ -43,6 +43,7 @@ footer {
 header img {
     color: #ffe000;
     float: left;
+    padding: 10px;
 }
 
 
