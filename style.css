@@ -39,8 +39,10 @@ footer {
     color: #ffe000;
 }
 
-.head-name1 {
+.head-name-1 {
     font-size: 1.5vh;
+    color: #fff;
+    font-weight: 300;
 }
 
 header img {
