@@ -6,6 +6,7 @@ body {
 }
   
 * {    
+    width: 100;
     scroll-behavior: smooth;
     list-style: none;
     font-family: 'Mitr', sans-serif;
@@ -66,6 +67,6 @@ header img {
 }
 
 .img10{
-   width: 190px;
+   width: 190px; !important
    border-radius: 10px;
 }
