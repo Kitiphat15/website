@@ -6,7 +6,6 @@ body {
 }
   
 * {    
-    width: 100;
     scroll-behavior: smooth;
     list-style: none;
     font-family: 'Mitr', sans-serif;
