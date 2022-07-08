@@ -65,7 +65,12 @@ header img {
     padding: 10px;
 }
 
-.img10{
-   width: 190px; !important
-   border-radius: 10px; !important
+.img10 {
+   width: 190px; 
+   border-radius: 10px; 
+}
+
+nav .top-menu {
+    background-color: #fff;
+    height: 40px;
 }
