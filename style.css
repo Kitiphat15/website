@@ -81,6 +81,10 @@ nav .top-menu {
     justify-content: center;
 }
 
+.top-menu ul{
+    padding: 0%;
+}
+
 .top-menu li {
     float: right;
     padding: 10px 40px;
