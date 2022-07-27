@@ -98,5 +98,8 @@ nav .top-menu {
 .link10 {
     background-color: white;
     padding: 10px;
+}
+
+.link10 ul li{
     list-style: disc;
 }
