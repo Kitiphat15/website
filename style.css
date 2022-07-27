@@ -74,3 +74,9 @@ nav .top-menu {
     background-color: #fff;
     height: 40px;
 }
+
+.top-menu {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
