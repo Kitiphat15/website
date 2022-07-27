@@ -80,3 +80,8 @@ nav .top-menu {
     display: flex;
     justify-content: center;
 }
+
+.top-menu li {
+    float: right;
+    padding: 10px 40px;
+}
