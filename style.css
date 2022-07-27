@@ -89,3 +89,8 @@ nav .top-menu {
     float: left;
     padding: 10px 40px;
 }
+
+.top-menu a {
+    text-decoration: none;
+    color: #000000;
+}
