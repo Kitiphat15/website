@@ -86,6 +86,10 @@ nav .top-menu {
     padding: 0%;
 }
 
+.top-menu ul:hover {
+    color: blueviolet;
+}
+
 .top-menu li {
     float: left;
     padding: 10px 40px;
